@@ -1,0 +1,3 @@
+name = "タジマ"
+
+puts name
